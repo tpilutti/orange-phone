@@ -1,0 +1,6 @@
+# Keep personal audio out of the repo
+*.wav
+*.WAV
+# OS clutter
+.DS_Store
+Thumbs.db
