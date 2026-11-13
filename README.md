@@ -2,9 +2,7 @@
 
 An old orange wall phone that plays my kids' childhood voicemails when you pick up the handset.
 
-<p align="center">
-  <img src="docs/images/18-finished-phone.jpg" alt="The finished orange wall phone mounted on a green wall" width="400">
-</p>
+![The finished orange wall phone mounted on a green wall](docs/images/18-finished-phone.jpg)
 
 ## Background
 
@@ -97,3 +95,10 @@ orange-phone/
 
 - **December 2021:** built and installed
 - **March 2022:** cover back on
+
+## Credits
+
+- **Adafruit Wave Shield tutorial:** build instructions, schematics and example code for the shield.
+  https://learn.adafruit.com/adafruit-wave-shield-audio-shield-for-arduino
+- **WaveHC library** by William Greiman and Adafruit, used for WAV playback and SD card access.
+  https://github.com/adafruit/WaveHC
